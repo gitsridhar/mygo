@@ -1,2 +1,2 @@
 # mygo
-Repository used to learn Google GO languagr
+Repository used to learn Google GO language
