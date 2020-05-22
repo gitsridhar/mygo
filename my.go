@@ -9,3 +9,7 @@ func main() {
         fmt.Println("Doing it again " + strconv.Itoa(i))
     }
 }
+
+func doit() {
+    fmt.Println("Do it!")
+}
