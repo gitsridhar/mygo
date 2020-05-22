@@ -1,4 +1,4 @@
-package mygo
+package mygo1
 
 import "fmt"
 //import "strconv"
