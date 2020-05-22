@@ -2,6 +2,6 @@ package mymodule
 
 import "fmt"
 
-func doit() {
+func Doit() {
     fmt.Println("Do it!")
 }
