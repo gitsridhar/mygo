@@ -1,4 +1,4 @@
 # mygo
 Repository used to learn Google GO language
 
-This is a test repository.
+This is a test repository to demonstrate GO language.
